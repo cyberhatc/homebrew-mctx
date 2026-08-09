@@ -5,9 +5,9 @@
 class Mctx < Formula
   desc "Terminal notepad for .mctx AI agent memory files"
   homepage "https://github.com/cyberhatc/mctx"
-  url "https://github.com/cyberhatc/mctx/archive/refs/tags/v2.1.4.tar.gz"
+  url "https://github.com/cyberhatc/mctx/archive/refs/tags/v2.1.5.tar.gz"
   # sha256 updated by scripts/update-brew-sha.sh after each tag
-  sha256 "f9c55b7e8a7296bb6e739ca134b6e530a387c2e813c4d89f4524c3bb066e5f9f"
+  sha256 "4fed2c0b13a323f276aff3f85b8ac3be3a366e78de92f859214f767d64354df5"
   license "MIT"
 
   depends_on "rust" => :build
