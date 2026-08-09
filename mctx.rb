@@ -7,7 +7,7 @@ class Mctx < Formula
   homepage "https://github.com/cyberhatc/mctx"
   url "https://github.com/cyberhatc/mctx/archive/refs/tags/v1.1.0.tar.gz"
   # sha256 updated by scripts/update-brew-sha.sh after each tag
-  sha256 "d57b71ddee19b0fb8e1f857bda2e6397b06e56fc845273a15f9357badf76154b"
+  sha256 "d4fc4796984c8300f2a43bef75389e6b89bcf09b4ad6584e215531a123a1c794"
   license "MIT"
 
   depends_on "rust" => :build
