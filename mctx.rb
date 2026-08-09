@@ -5,7 +5,7 @@
 class Mctx < Formula
   desc "Terminal notepad for .mctx AI agent memory files"
   homepage "https://github.com/cyberhatc/mctx"
-  url "https://github.com/cyberhatc/mctx/archive/refs/tags/v1.1.0.tar.gz"
+  url "https://github.com/cyberhatc/mctx/archive/refs/tags/v2.1.3.tar.gz"
   # sha256 updated by scripts/update-brew-sha.sh after each tag
   sha256 "6283a77147f46fe5238e0f1ea882aaa894dc330d3d4abe543a795c20164bfba9"
   license "MIT"
